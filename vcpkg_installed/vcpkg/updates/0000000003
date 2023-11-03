@@ -1,0 +1,9 @@
+Package: vulkan
+Version: 1.1.82.1
+Port-Version: 6
+Depends: vcpkg-cmake:x64-windows
+Architecture: x86-windows
+Multi-Arch: same
+Abi: 81534f8aeab589596a3d208e9310a504bae0a70065d471c639258e058eac0fc4
+Description: A stub package that ensures that the Vulkan SDK is installed.
+Status: install ok installed
